@@ -17,4 +17,7 @@
     font-weight: normal;
     margin: 0px;
     margin-bottom: 10px;
+    border-bottom-style: dotted;
+    border-bottom-color: hsl(0, 0%, 0%);
+    border-bottom-width: 4px;
 }
