@@ -1,9 +1,13 @@
 .semesters-list {
     list-style-type: none;
-    color: hsl(0, 50%, 50%);
+    color: hsl(259, 50%, 50%);
     font-family: sans-serif;
 }
 
 .semesters-heading {
     font-weight: normal;
+    border-style: solid;
+    border-color: hsl(0, 0%, 0%);
+    border-width: 2px;
+    padding: 10px;
 }
