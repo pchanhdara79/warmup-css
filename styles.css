@@ -4,10 +4,17 @@
     font-family: sans-serif;
 }
 
-.semesters-heading {
+.semesters {
     font-weight: normal;
     border-style: solid;
     border-color: hsl(0, 0%, 0%);
     border-width: 2px;
     padding: 10px;
+    margin-bottom: 10px;
+}
+
+.semesters-heading {
+    font-weight: normal;
+    margin: 0px;
+    margin-bottom: 10px;
 }
