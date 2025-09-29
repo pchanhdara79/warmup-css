@@ -1,3 +1,5 @@
 .semesters-list {
     list-style-type: none;
+    color: hsl(0, 50%, 50%);
+    font-family: sans-serif;
 }
